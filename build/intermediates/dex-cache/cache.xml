@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/haohuiyan/Documents/workspace/JacocoDemo/app/build/intermediates/pre-dexed/debug/robotium-solo-5.1-cf9f2a7fff075d69744bd6990761fc663d6f454d.jar"
+        jar="/Users/haohuiyan/Documents/workspace/JacocoDemo/app/libs/robotium-solo-5.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5ff4001bfb640635cf35737c112c34bfea30b0c1"/>
+    <item
+        dex="/Users/haohuiyan/Documents/workspace/JacocoDemo/app/build/intermediates/pre-dexed/debug/jacocoagent-c6833baecec3308c197e3de1ad15e449b371d993.jar"
+        jar="/Users/haohuiyan/Documents/workspace/JacocoDemo/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530"/>
+
+</pre-dex-items>
